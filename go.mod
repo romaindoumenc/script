@@ -1,4 +1,4 @@
-module rsc.io/script
+module github.com/romaindoumenc/script
 
 go 1.21
 
